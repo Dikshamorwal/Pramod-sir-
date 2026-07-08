@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <!-- DNA Helix -->
+  <symbol id="icon-dna" viewBox="0 0 64 64" fill="none">
+    <path d="M16 8c0 0 16-8 32 0s16 16 0 24-32 8-32 24 16 8 32 0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M48 8c0 0-16-8-32 0s-16 16 0 24 32 8 32 24-16 8-32 0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+    <line x1="16" y1="12" x2="16" y2="52" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <line x1="48" y1="12" x2="48" y2="52" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <line x1="20" y1="20" x2="44" y2="20" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+    <line x1="20" y1="44" x2="44" y2="44" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+    <line x1="18" y1="32" x2="46" y2="32" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+  </symbol>
+
+  <!-- RNA -->
+  <symbol id="icon-rna" viewBox="0 0 64 64" fill="none">
+    <path d="M12 32C12 20 20 12 32 12s20 8 20 20-8 20-20 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M32 12v40" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <circle cx="32" cy="22" r="3" fill="currentColor" opacity="0.5"/>
+    <circle cx="32" cy="32" r="3" fill="currentColor" opacity="0.5"/>
+    <circle cx="32" cy="42" r="3" fill="currentColor" opacity="0.5"/>
+    <path d="M20 18l3 4" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <path d="M44 18l-3 4" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+  </symbol>
+
+  <!-- Bacteria -->
+  <symbol id="icon-bacteria" viewBox="0 0 64 64" fill="none">
+    <ellipse cx="32" cy="32" rx="16" ry="10" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M32 22v20" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="24" cy="28" r="1.5" fill="currentColor" opacity="0.4"/>
+    <circle cx="40" cy="28" r="1.5" fill="currentColor" opacity="0.4"/>
+    <circle cx="24" cy="36" r="1.5" fill="currentColor" opacity="0.4"/>
+    <circle cx="40" cy="36" r="1.5" fill="currentColor" opacity="0.4"/>
+    <path d="M16 28l-6-4M48 28l6-4M16 36l-6 4M48 36l6 4" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <path d="M20 32h-8M44 32h8" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+  </symbol>
+
+  <!-- Virus -->
+  <symbol id="icon-virus" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="14" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="32" r="6" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <path d="M32 18v-6M32 52v-6M18 32h-6M52 32h-6" stroke="currentColor" stroke-width="1.5" opacity="0.6"/>
+    <g opacity="0.4">
+      <path d="M22.5 22.5l-4.5-4.5M41.5 22.5l4.5-4.5M41.5 41.5l4.5 4.5M22.5 41.5l-4.5 4.5" stroke="currentColor" stroke-width="1"/>
+    </g>
+    <circle cx="32" cy="32" r="2" fill="currentColor" opacity="0.6"/>
+  </symbol>
+
+  <!-- Chromosome -->
+  <symbol id="icon-chromosome" viewBox="0 0 64 64" fill="none">
+    <path d="M20 12c0 0-4 8-4 20s4 20 4 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M44 12c0 0 4 8 4 20s-4 20-4 20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="16" y1="22" x2="48" y2="22" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+    <line x1="16" y1="32" x2="48" y2="32" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+    <line x1="16" y1="42" x2="48" y2="42" stroke="currentColor" stroke-width="0.8" opacity="0.3"/>
+    <circle cx="20" cy="12" r="2" fill="currentColor" opacity="0.6"/>
+    <circle cx="44" cy="12" r="2" fill="currentColor" opacity="0.6"/>
+  </symbol>
+
+  <!-- Cell -->
+  <symbol id="icon-cell" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="20" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="32" r="10" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <circle cx="32" cy="32" r="3" fill="currentColor" opacity="0.5"/>
+    <g opacity="0.3">
+      <line x1="12" y1="32" x2="20" y2="32" stroke="currentColor" stroke-width="0.8"/>
+      <line x1="44" y1="32" x2="52" y2="32" stroke="currentColor" stroke-width="0.8"/>
+      <line x1="32" y1="12" x2="32" y2="20" stroke="currentColor" stroke-width="0.8"/>
+      <line x1="32" y1="44" x2="32" y2="52" stroke="currentColor" stroke-width="0.8"/>
+    </g>
+  </symbol>
+
+  <!-- Microscope -->
+  <symbol id="icon-microscope" viewBox="0 0 64 64" fill="none">
+    <path d="M24 52h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <path d="M32 52V40" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M28 40c0 0 0-4 4-4s4 4 4 4" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="20" y1="40" x2="44" y2="40" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <path d="M32 36V20l8-8" stroke="currentColor" stroke-width="1.2"/>
+    <path d="M40 12h6l-6 6" stroke="currentColor" stroke-width="1.2"/>
+    <circle cx="32" cy="20" r="2" fill="currentColor" opacity="0.4"/>
+    <path d="M18 52h28" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  </symbol>
+
+  <!-- Petri Dish -->
+  <symbol id="icon-petri" viewBox="0 0 64 64" fill="none">
+    <ellipse cx="32" cy="36" rx="20" ry="8" stroke="currentColor" stroke-width="1.5"/>
+    <ellipse cx="32" cy="36" rx="20" ry="8" stroke="currentColor" stroke-width="0.5" opacity="0.3" stroke-dasharray="2 2"/>
+    <circle cx="32" cy="28" r="12" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="28" cy="25" r="3" fill="currentColor" opacity="0.3"/>
+    <circle cx="38" cy="30" r="2" fill="currentColor" opacity="0.25"/>
+    <circle cx="30" cy="32" r="1.5" fill="currentColor" opacity="0.2"/>
+    <circle cx="25" cy="21" r="1" fill="currentColor" opacity="0.35"/>
+    <circle cx="35" cy="22" r="2.5" fill="currentColor" opacity="0.2"/>
+  </symbol>
+
+  <!-- Genome -->
+  <symbol id="icon-genome" viewBox="0 0 64 64" fill="none">
+    <line x1="8" y1="16" x2="56" y2="16" stroke="currentColor" stroke-width="0.8"/>
+    <line x1="8" y1="24" x2="56" y2="24" stroke="currentColor" stroke-width="0.8"/>
+    <line x1="8" y1="32" x2="56" y2="32" stroke="currentColor" stroke-width="0.8"/>
+    <line x1="8" y1="40" x2="56" y2="40" stroke="currentColor" stroke-width="0.8"/>
+    <line x1="8" y1="48" x2="56" y2="48" stroke="currentColor" stroke-width="0.8"/>
+    <g opacity="0.4">
+      <rect x="14" y="14" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="22" y="14" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="30" y="14" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="38" y="14" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="18" y="22" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="26" y="22" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="34" y="22" width="4" height="4" rx="1" fill="currentColor"/>
+      <rect x="42" y="22" width="4" height="4" rx="1" fill="currentColor"/>
+    </g>
+    <path d="M14 30h4v4h-4zM22 30h4v4h-4zM30 30h4v4h-4zM38 30h4v4h-4z" fill="currentColor" opacity="0.3"/>
+    <path d="M18 38h4v4h-4zM26 38h4v4h-4zM34 38h4v4h-4zM42 38h4v4h-4z" fill="currentColor" opacity="0.25"/>
+  </symbol>
+
+  <!-- Protein -->
+  <symbol id="icon-protein" viewBox="0 0 64 64" fill="none">
+    <path d="M16 28c0-8 6-14 14-14s14 6 14 14-6 14-14 14-14-6-14-14z" stroke="currentColor" stroke-width="1.2"/>
+    <path d="M30 14C24 22 24 34 30 42" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <path d="M26 18c4 6 4 14 0 20" stroke="currentColor" stroke-width="0.6" opacity="0.3"/>
+    <path d="M34 18c-4 6-4 14 0 20" stroke="currentColor" stroke-width="0.6" opacity="0.3"/>
+    <circle cx="30" cy="20" r="2" fill="currentColor" opacity="0.4"/>
+    <circle cx="30" cy="28" r="2" fill="currentColor" opacity="0.4"/>
+    <circle cx="30" cy="36" r="2" fill="currentColor" opacity="0.4"/>
+    <path d="M16 28l-6-4M48 28l6-4" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  </symbol>
+
+  <!-- Immune Cell -->
+  <symbol id="icon-immune" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="18" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="32" r="8" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <g opacity="0.4">
+      <line x1="14" y1="32" x2="8" y2="28" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="14" y1="32" x2="8" y2="36" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="50" y1="32" x2="56" y2="28" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="50" y1="32" x2="56" y2="36" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="32" y1="14" x2="28" y2="8" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="32" y1="14" x2="36" y2="8" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="32" y1="50" x2="28" y2="56" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="32" y1="50" x2="36" y2="56" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+    <circle cx="32" cy="32" r="3" fill="currentColor" opacity="0.5"/>
+  </symbol>
+
+  <!-- Cancer Cell -->
+  <symbol id="icon-cancer" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="18" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M22 22l20 20M42 22L22 42" stroke="currentColor" stroke-width="1.2" opacity="0.5"/>
+    <circle cx="26" cy="24" r="3" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="38" cy="26" r="2.5" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="28" cy="38" r="2" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="36" cy="36" r="3.5" stroke="currentColor" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="32" cy="32" r="2" fill="currentColor" opacity="0.5"/>
+  </symbol>
+
+  <!-- Microbiome -->
+  <symbol id="icon-microbiome" viewBox="0 0 64 64" fill="none">
+    <ellipse cx="22" cy="24" rx="8" ry="5" stroke="currentColor" stroke-width="1.2"/>
+    <ellipse cx="42" cy="30" rx="10" ry="6" stroke="currentColor" stroke-width="1.2"/>
+    <ellipse cx="30" cy="42" rx="12" ry="7" stroke="currentColor" stroke-width="1.2"/>
+    <ellipse cx="40" cy="18" rx="6" ry="4" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <circle cx="18" cy="35" r="5" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <g opacity="0.3">
+      <circle cx="22" cy="22" r="1.5" fill="currentColor"/>
+      <circle cx="42" cy="28" r="1.5" fill="currentColor"/>
+      <circle cx="30" cy="40" r="1.5" fill="currentColor"/>
+    </g>
+  </symbol>
+
+  <!-- Molecular Bond -->
+  <symbol id="icon-molecule" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="12" r="4" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="12" cy="32" r="4" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="52" cy="32" r="4" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="52" r="4" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="32" y1="16" x2="16" y2="28" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="32" y1="16" x2="48" y2="28" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="16" y1="36" x2="28" y2="48" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="48" y1="36" x2="36" y2="48" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+    <line x1="12" y1="32" x2="52" y2="32" stroke="currentColor" stroke-width="0.5" opacity="0.2"/>
+  </symbol>
+
+  <!-- Hexagon -->
+  <symbol id="icon-hexagon" viewBox="0 0 64 64" fill="none">
+    <path d="M32 4l24 14v28L32 60 8 46V18z" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M32 4l24 14v28L32 60 8 46V18z" stroke="currentColor" stroke-width="1" opacity="0.3" transform="scale(0.7) translate(13.5, 13.5)"/>
+    <circle cx="32" cy="32" r="4" fill="currentColor" opacity="0.3"/>
+  </symbol>
+
+  <!-- Research -->
+  <symbol id="icon-research" viewBox="0 0 64 64" fill="none">
+    <circle cx="28" cy="28" r="14" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="38" y1="38" x2="52" y2="52" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <path d="M22 28h12M28 22v12" stroke="currentColor" stroke-width="1.2" opacity="0.5"/>
+  </symbol>
+
+  <!-- Publication -->
+  <symbol id="icon-publication" viewBox="0 0 64 64" fill="none">
+    <rect x="12" y="8" width="40" height="48" rx="3" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="20" y1="20" x2="44" y2="20" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="20" y1="28" x2="44" y2="28" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="20" y1="36" x2="36" y2="36" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="20" y1="44" x2="40" y2="44" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+  </symbol>
+
+  <!-- Award -->
+  <symbol id="icon-award" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="20" r="10" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M22 30l-6 16 16-4 16 4-6-16" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="32" y1="20" x2="32" y2="30" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  </symbol>
+
+  <!-- Collaboration -->
+  <symbol id="icon-collab" viewBox="0 0 64 64" fill="none">
+    <circle cx="20" cy="20" r="8" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="44" cy="20" r="8" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="44" r="8" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="28" y1="28" x2="28" y2="36" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="36" y1="28" x2="36" y2="36" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+  </symbol>
+
+  <!-- Grant -->
+  <symbol id="icon-grant" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="20" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M24 28l8-8 8 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="20" x2="32" y2="40" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="24" y1="40" x2="40" y2="40" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+  </symbol>
+
+  <!-- Team -->
+  <symbol id="icon-team" viewBox="0 0 64 64" fill="none">
+    <circle cx="22" cy="20" r="6" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="42" cy="20" r="6" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="36" r="6" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M16 30c0 0 3-6 6-6s6 6 6 6" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <path d="M36 30c0 0 3-6 6-6s6 6 6 6" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <path d="M26 44c0 0 3-6 6-6s6 6 6 6" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+  </symbol>
+
+  <!-- Media / Play -->
+  <symbol id="icon-media" viewBox="0 0 64 64" fill="none">
+    <circle cx="32" cy="32" r="20" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M28 24v16l12-8-12-8z" fill="currentColor" opacity="0.6"/>
+  </symbol>
+
+  <!-- Contact / Mail -->
+  <symbol id="icon-email" viewBox="0 0 64 64" fill="none">
+    <rect x="8" y="16" width="48" height="32" rx="4" stroke="currentColor" stroke-width="1.5"/>
+    <path d="M8 20l24 14 24-14" stroke="currentColor" stroke-width="1.5"/>
+  </symbol>
+
+  <!-- Location -->
+  <symbol id="icon-location" viewBox="0 0 64 64" fill="none">
+    <path d="M32 8c-8 0-14 6-14 14 0 10 14 30 14 30s14-20 14-30c0-8-6-14-14-14z" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="22" r="4" fill="currentColor" opacity="0.5"/>
+  </symbol>
+
+  <!-- Phone -->
+  <symbol id="icon-phone" viewBox="0 0 64 64" fill="none">
+    <path d="M44 52c-12 0-24-8-30-18l8-6-4-12H8C6 28 12 44 22 52z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+  </symbol>
+
+  <!-- Calendar -->
+  <symbol id="icon-calendar" viewBox="0 0 64 64" fill="none">
+    <rect x="12" y="16" width="40" height="40" rx="3" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="12" y1="28" x2="52" y2="28" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <line x1="24" y1="12" x2="24" y2="20" stroke="currentColor" stroke-width="1.5"/>
+    <line x1="40" y1="12" x2="40" y2="20" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="24" cy="36" r="2" fill="currentColor" opacity="0.4"/>
+    <circle cx="32" cy="36" r="2" fill="currentColor" opacity="0.4"/>
+    <circle cx="40" cy="36" r="2" fill="currentColor" opacity="0.4"/>
+  </symbol>
+
+  <!-- Quote -->
+  <symbol id="icon-quote" viewBox="0 0 64 64" fill="none">
+    <path d="M16 24c0-4 4-8 8-8M28 32c-4 0-8-4-8-8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <path d="M36 24c0-4 4-8 8-8M48 32c-4 0-8-4-8-8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    <line x1="20" y1="34" x2="44" y2="34" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <line x1="20" y1="40" x2="44" y2="40" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+    <line x1="20" y1="46" x2="40" y2="46" stroke="currentColor" stroke-width="1" opacity="0.3"/>
+  </symbol>
+</svg>
